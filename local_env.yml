@@ -1,0 +1,10 @@
+name: local_nmt
+dependencies:
+  - python=3.5
+  - numpy
+  - scipy
+  - tqdm
+  - docopt
+  - pytorch=1.0
+  - nltk
+  - torchvision
